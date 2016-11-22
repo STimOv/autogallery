@@ -1,0 +1,10 @@
+<?php
+/**
+ * Options for the autogallery plugin
+ *
+ * @author Tim Siebentaler <tsvamp333@googlemail.com>
+ */
+
+
+//$meta['fixme'] = array('string');
+
