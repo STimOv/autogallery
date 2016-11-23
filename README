@@ -3,7 +3,7 @@ autogallery Plugin for DokuWiki
 Creates fully automatic a gallery based on Plugin Gallery, placing all images of a gallery in a sub-namespace
 
 All documentation for this plugin can be found at
-https://www.dokuwiki.org/plugin:auto_gallery
+https://www.dokuwiki.org/plugin:autogallery
 
 If you install this plugin manually, make sure it is installed in
 lib/plugins/autogallery/ - if the folder is called different it
